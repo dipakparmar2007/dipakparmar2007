@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Dipakkumar Parmar
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Dipakkumar Parmar
 
 I'm a **Full-Stack Web Developer** and **lifelong learner**, focused on building fast, responsive, SEO-friendly websites and web applications.
 
