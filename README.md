@@ -129,7 +129,7 @@ Let's connect, collaborate, and build something awesome together 🚀
 <p align="left">
 
 <a href="https://chatgpt.com/" target="_blank">
-<img src="https://camo.githubusercontent.com/0950b4b67610a7162c2b601a537f9df728567f68cfb3bf62e73ae50915658b4e/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6f70656e6169" alt="ChatGPT" width="40" height="40" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDdxeTRiemdrbzJpazA0MW1mNWU4Z3ltOHIxN2IwMXZkcmQzZ3JhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f0VbswUmSY6X1cBz4C/giphy.gif" alt="ChatGPT" width="40" height="40" />
 </a>
 
 <a href="https://claude.ai/" target="_blank">
@@ -169,7 +169,7 @@ Let's connect, collaborate, and build something awesome together 🚀
 </a>
 
 <a href="https://www.canva.com/" target="_blank">
-<img src="https://camo.githubusercontent.com/8d9e7b2105cb74aa68a73f503fff8d10cc364a46e0ddd3b5fa599ad95b1a69fb/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f63616e7661" alt="Canva AI" width="40" height="40" />
+<img src="https://media.giphy.com/avatars/canva/5Z5PjvkPHS4X/200h.png" alt="Canva AI" width="40" height="40" />
 </a>
 
 <a href="https://www.midjourney.com/" target="_blank">
