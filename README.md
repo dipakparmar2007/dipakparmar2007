@@ -5,7 +5,7 @@ I'm a **Full-Stack Web Developer** and **lifelong learner**, focused on building
 * 👨🏻‍💻 **Currently working with:** PHP, WordPress, Laravel, JavaScript, Elementor, WooCommerce, HTML, CSS, and MySQL
 * 🤖 **AI & Development:** ChatGPT, Claude, Gemini, Cursor, GitHub Copilot, Claude Code, OpenAI Codex, and AI-assisted development
 * 🌱 **Exploring:** AI concepts, automation, modern web technologies, and emerging developer tools
-* 🗣️ **Languages:** English, Hindi, and [Gujarati](https://de.wikipedia.org/wiki/Gujarati)
+* 🗣️ **Languages:** English, [Hindi](https://de.wikipedia.org/wiki/Hindi), and [Gujarati](https://de.wikipedia.org/wiki/Gujarati)
 * 💬 **Ask me anything:** WordPress, Elementor, PHP, Laravel, WooCommerce, web development, performance optimization, and AI-assisted development
 * 📝 **Read my blog:** [dipakparmar443.github.io](https://dipakparmar443.github.io/)
 * 📫 **Reach me at:** [mr.dipakparmar2007@gmail.com](mailto:mr.dipakparmar2007@gmail.com)
@@ -124,8 +124,6 @@ Let's connect, collaborate, and build something awesome together 🚀
 
 ### 🤖 AI Tools
 
-### 🤖 AI Tools
-
 <p align="left">
 
 <a href="https://chatgpt.com/" target="_blank">
@@ -212,22 +210,26 @@ Let's connect, collaborate, and build something awesome together 🚀
 
 ### 🚀 What I Work On
 
-* 🌐 WordPress Website Development
+* 🌐 WordPress & Custom Web Development
 * 🎨 Elementor & Custom WordPress Development
-* 🛒 WooCommerce Development
+* 🛒 WooCommerce, Membership & Subscription Systems
 * ⚙️ PHP & Laravel Development
-* 🚀 Website Speed & Performance Optimization
-* 📱 Responsive Web Development
-* 🔌 API Integration
-* 🤖 AI-Assisted Development
-* 🔄 Automation & AI Workflows
-* 🔍 SEO-Friendly Website Development
+* 🤖 AI-Powered Web & Software Applications
+* 🧠 LLM & Generative AI Integration
+* 💬 AI Chatbots & Intelligent Assistants
+* 🔎 RAG & Knowledge-Based AI Systems
+* 🤝 AI Agents & Agentic Workflows
+* 🔄 AI Automation & Business Process Automation
+* 🔌 OpenAI, Gemini, Claude & AI API Integration
+* 🛠️ Custom AI Tools & AI SaaS Applications
+* 📊 AI-Powered Content & Data Processing
+* 🔗 REST API & Third-Party API Integration
+* 🚀 AI-Assisted Development & Code Automation
+* ⚡ Web Performance & Core Web Vitals Optimization
+* 📱 Responsive Web Application Development
+* 🔍 SEO-Friendly & Search-Optimized Websites
 
 ### 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=dipakparmar2007&show_icons=true&hide_border=true" alt="Dipakkumar Parmar GitHub Stats" />
-</p>
 
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipakparmar2007&hide_border=true" alt="GitHub Streak" />
